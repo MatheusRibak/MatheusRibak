@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá eu me chamo Matheus Ribak e sou apaixonado por Tecnologia, pela minha Esposa, meu cachorro e por Pokémon TCG 💜
 
 <!--
 **MatheusRibak/MatheusRibak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
